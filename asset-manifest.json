@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Website-Personal/static/css/main.5779c34f.css",
+    "main.js": "/Website-Personal/static/js/main.b9176361.js",
+    "static/media/masjidfinder.png": "/Website-Personal/static/media/masjidfinder.7e24b0a48d136cc8c746.png",
+    "static/media/self.png": "/Website-Personal/static/media/self.bc947e8f35b31c3a092d.png",
+    "static/media/chosn.png": "/Website-Personal/static/media/chosn.3db65b3d319ddc368c8d.png",
+    "static/media/dreamwalkersimg.png": "/Website-Personal/static/media/dreamwalkersimg.bbdc80980b9f024d9068.png",
+    "index.html": "/Website-Personal/index.html",
+    "main.5779c34f.css.map": "/Website-Personal/static/css/main.5779c34f.css.map",
+    "main.b9176361.js.map": "/Website-Personal/static/js/main.b9176361.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5779c34f.css",
+    "static/js/main.b9176361.js"
+  ]
+}
